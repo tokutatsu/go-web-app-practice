@@ -1,1 +1,1 @@
-# go-web-app-sample
+# go-web-app-practice
